@@ -1,0 +1,31 @@
+.choices_main {
+  width: 100%;
+  margin: 2rem auto;
+}
+
+.choices {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 5px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.choices select {
+  width: 10rem;
+}
+
+.submit {
+  background-color: blue;
+  color: wheat;
+  height: 3rem;
+  padding: 0 2rem;
+  border-radius: .2rem;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2rem;
+  margin: 2rem;
+}
+/*# sourceMappingURL=colourTest.css.map */
